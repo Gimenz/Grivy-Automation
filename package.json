@@ -1,0 +1,30 @@
+{
+  "name": "grivy-auto-login-claim",
+  "version": "1.0.0",
+  "description": "Auto Login grivy and auto claim voucher ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gimenz/Grivy-Automation.git"
+  },
+  "keywords": [
+    "puppeteer",
+    "automation"
+  ],
+  "author": "Gimenz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gimenz/Grivy-Automation/issues"
+  },
+  "homepage": "https://github.com/Gimenz/Grivy-Automation#readme",
+  "dependencies": {
+    "chalk": "^5.0.0",
+    "moment-timezone": "^0.5.34",
+    "puppeteer-extra": "^3.2.3",
+    "puppeteer-extra-plugin-stealth": "^2.9.0",
+    "readline-sync": "^1.4.10"
+  }
+}
